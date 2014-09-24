@@ -13,6 +13,9 @@ Resultant website offers the following functionality:
 
 Script in Perl and uses JSON::XS module by Marc Lehmann.
 
+Instructions
+------------
+To view script, unpack <strong>files.tar</strong> and execute <strong>mekong.cgi</strong> with appropriate permissions.
 
 Images
 -----
