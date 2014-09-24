@@ -21,16 +21,16 @@ Images
 -----
 See <strong>/screenshots</strong> for more images
 
-Homepage:
+<h4>Homepage:</h4>
 ![Mekong Homepage](/screenshots/homepage.png?raw=true "Mekong Homepage")
 
-Search Page:
+<h4>Search Page:</h4>
 ![Mekong Search Page](/screenshots/search%20page.png?raw=true "Mekong Search Page")
 
-Basket Page:
+<h4>Basket Page:</h4>
 ![Mekong Basket Page](/screenshots/basket.png?raw=true "Mekong Basket Page")
 
-Checkout Page:
+<h4>Checkout Page:</h4>
 ![Mekong Checkout Page](/screenshots/checkout.png?raw=true "Mekong Checkout Page")
 
 License
